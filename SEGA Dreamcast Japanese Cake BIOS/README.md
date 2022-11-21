@@ -1,6 +1,6 @@
 For GCEMU Users, please use v1.031 due to compatibility issues.
 
-**Flash EEPROM**
+**_Flash EEPROM Chip_**
 
 For VA0 (5V) :-
 - MX29F1610MC 
