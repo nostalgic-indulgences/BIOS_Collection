@@ -1,0 +1,38 @@
+_________________________________________________________________________________________
+
+ Dreamcast Custom bootROM Changelog
+                                                                         by japanese_cake
+_________________________________________________________________________________________
+
+bootROM v1.032 Retail & DevKit (20/06/2016):
+ - In BIOS menu to update the following bootROM settings:
+    + Boot animation color
+    + SEGA license screen skip
+    + MIL-CD/backup direct-boot
+    + Dreamcast main menu scenery perspective and color
+ - Skip the "set date/time" screen
+ - BIOS video mode forced to 60hz
+ - Auto region patching for GD-ROMs
+ - Internal changes for future updates
+
+bootROM v1.031 Retail & DevKit (26/08/2015):
+ - SEGA License screen skip
+ - MIL-CD/backup direct boot
+ - Black fade-in color while booting from menu
+ - No VMU copy-protected file check
+ - Code cleanup for later uses :)
+
+bootROM v1.030 DevKit (17/03/2015):
+ - Same as the retail one but with the devkit intro
+
+bootROM v1.030 Retail (27/02/2015):
+ - Region free
+ - No VGA flag check
+ - No boot file LBA check
+ - BIOS version displayed
+
+_________________________________________________________________________________________
+
+                                                                       jc.dcdev@gmail.com
+                                                            japanese-cake.livejournal.com
+_________________________________________________________________________________________
