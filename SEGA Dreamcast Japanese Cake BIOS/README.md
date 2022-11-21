@@ -1,4 +1,4 @@
-#**Flash EEPROM Chip**
+#**Flash EEPROM Chip**#
 
 For VA0 (5V) :-
 - MX29F1610MC 
