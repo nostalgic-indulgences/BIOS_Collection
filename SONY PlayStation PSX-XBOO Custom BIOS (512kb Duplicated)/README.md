@@ -1,1 +1,7 @@
-**EEPROM CHIP
+#EEPROM CHIP
+
+SST39SF040
+
+#BIOS Interface PCB
+
+
